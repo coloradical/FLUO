@@ -1,0 +1,21 @@
+
+<svg class="ping2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 135.2 135.2"><defs><style>
+
+.ping2{-webkit-animation:ping2 10s linear infinite both; animation:ping2 10s linear infinite both}
+@-webkit-keyframes ping{
+0%{-webkit-transform:scale(.75);transform:scale(0.75);opacity:1}
+50%{-webkit-transform:scale(0.85);transform:scale(.85);opacity:0.5}
+75%{-webkit-transform:scale(0.9);transform:scale(.9);opacity:0.25}
+
+100%{-webkit-transform:scale(0.85);transform:scale(0.85);opacity:1}}
+
+@keyframes ping{0%{-webkit-transform:scale(.55);transform:scale(0.75);opacity:1}
+50%{-webkit-transform:scale(0.85);transform:scale(.85);opacity:0.5}
+75%{-webkit-transform:scale(0.9);transform:scale(.9);opacity:0.25}
+
+100%{-webkit-transform:scale(0.85);transform:scale(0.85);opacity:1}}
+
+
+
+
+.cls-1{isolation:isolate;}.cls-2{opacity:0.6;mix-blend-mode:color-dodge;fill:url(#radial-gradient);}</style><radialGradient id="radial-gradient" cx="67.6" cy="67.6" r="81.82" gradientTransform="translate(10.03 -8.72) rotate(7.97)" gradientUnits="userSpaceOnUse"><stop offset="0.21" stop-color="#2e3192"/><stop offset="0.3" stop-color="#272681"/><stop offset="0.47" stop-color="#1b1464"/><stop offset="0.65" stop-color="#0071bc" stop-opacity="0.8"/><stop offset="0.67" stop-color="#0086c6" stop-opacity="0.8"/><stop offset="0.71" stop-color="#00b2da" stop-opacity="0.8"/><stop offset="0.74" stop-color="#00d4ea" stop-opacity="0.8"/><stop offset="0.78" stop-color="#00ecf6" stop-opacity="0.8"/><stop offset="0.82" stop-color="#00fafd" stop-opacity="0.8"/><stop offset="0.86" stop-color="aqua" stop-opacity="0.8"/></radialGradient></defs><g class="cls-1"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><circle class="cls-2" cx="67.6" cy="67.6" r="67.6" transform="translate(-8.72 10.03) rotate(-7.97)"/></g></g></g></svg>
